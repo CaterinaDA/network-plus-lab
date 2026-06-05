@@ -19,7 +19,7 @@ Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su
 
 ## Certificazioni
 - CompTIA Security+ — conseguita
-- CompTIA Network+ — in preparazione (target: 2025)
+- CompTIA Network+ — in preparazione (target: 2026)
 
 ## Lab completati
 - [OSI Model](week1-fundamentals/01-osi-model.md)
