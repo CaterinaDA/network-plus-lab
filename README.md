@@ -1,2 +1,27 @@
-# network-plus-lab
-CompTIA Network+ N10-009 study lab - hands-on exercises and notes
+# CompTIA Network+ Lab (N10-009)
+
+Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su VM.
+
+## Ambiente di lab
+- Host: Windows PC
+- VM 1: Ubuntu Desktop (VirtualBox) — lab di rete e analisi traffico
+- VM 2: Windows Server 2022 (VirtualBox) — Active Directory lab
+- Tools: Wireshark, ipcalc, nmap, Git
+
+## Struttura
+
+| Cartella | Argomenti | Stato |
+|----------|-----------|-------|
+| week1-fundamentals | OSI, porte/protocolli, subnetting, Wireshark | ✅ Completata |
+| week2-routing-switching | Routing, VLAN, spanning tree, wireless | 🔄 In corso |
+| week3-security | Monitoraggio, attacchi, difese, AD security | ⏳ In attesa |
+| week4-troubleshooting | Metodologia, comandi CLI, simulazione esame | ⏳ In attesa |
+
+## Certificazioni
+- CompTIA Security+ — conseguita
+- CompTIA Network+ — in preparazione (target: 2025)
+
+## Lab completati
+- [OSI Model](week1-fundamentals/01-osi-model.md)
+- [Porte e Protocolli](week1-fundamentals/02-ports-protocols.md)
+- [Subnetting IPv4](week1-fundamentals/03-subnetting.md)
