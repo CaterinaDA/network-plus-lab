@@ -13,7 +13,7 @@ Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su
 | Cartella | Argomenti | Stato |
 |----------|-----------|-------|
 | week1-fundamentals | OSI, porte/protocolli, subnetting, Wireshark | ✅ Completata |
-| week2-routing-switching | Routing, VLAN, spanning tree, wireless | 🔄 In corso |
+| week2-routing-switching | Routing, VLAN, spanning tree, wireless | ✅ Completata |
 | week3-security | Monitoraggio, attacchi, difese, AD security | ⏳ In attesa |
 | week4-troubleshooting | Metodologia, comandi CLI, simulazione esame | ⏳ In attesa |
 
@@ -25,3 +25,6 @@ Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su
 - [OSI Model](week1-fundamentals/01-osi-model.md)
 - [Porte e Protocolli](week1-fundamentals/02-ports-protocols.md)
 - [Subnetting IPv4](week1-fundamentals/03-subnetting.md)
+- [Routing e NAT](week2-routing-switching/01-routing.md)
+- [Switching e VLAN](week2-routing-switching/02-switching-vlan.md)
+- [Wireless](week2-routing-switching/03-wireless.md)
