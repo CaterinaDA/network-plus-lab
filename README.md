@@ -4,22 +4,22 @@ Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su
 
 ## Ambiente di lab
 - Host: Windows PC
-- VM 1: Ubuntu Desktop (VirtualBox) — lab di rete e analisi traffico
-- VM 2: Windows Server 2022 (VirtualBox) — Active Directory lab
-- Tools: Wireshark, ipcalc, nmap, Git
+- VM 1: Ubuntu Desktop (VirtualBox) - lab di rete e analisi traffico
+- VM 2: Windows Server 2022 (VirtualBox) - Active Directory lab
+- Tools: Wireshark, ipcalc, nmap, Git, Cisco Packet Tracer
 
 ## Struttura
 
 | Cartella | Argomenti | Stato |
 |----------|-----------|-------|
-| week1-fundamentals | OSI, porte/protocolli, subnetting, Wireshark | ✅ Completata |
-| week2-routing-switching | Routing, VLAN, spanning tree, wireless | ✅ Completata |
-| week3-security | Monitoraggio, attacchi, difese, AD security | ⏳ In attesa |
-| week4-troubleshooting | Metodologia, comandi CLI, simulazione esame | ⏳ In attesa |
+| week1-fundamentals | OSI, porte/protocolli, subnetting, Wireshark | Completata |
+| week2-routing-switching | Routing, VLAN, spanning tree, wireless | Completata |
+| week3-security | Monitoraggio, attacchi, difese, AD security | Completata |
+| week4-troubleshooting | Metodologia, comandi CLI, simulazione esame | In attesa |
 
 ## Certificazioni
-- CompTIA Security+ — conseguita
-- CompTIA Network+ — in preparazione (target: 2026)
+- CompTIA Security+ - conseguita
+- CompTIA Network+ - in preparazione (target: 2026)
 
 ## Lab completati
 - [OSI Model](week1-fundamentals/01-osi-model.md)
@@ -28,3 +28,6 @@ Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su
 - [Routing e NAT](week2-routing-switching/01-routing.md)
 - [Switching e VLAN](week2-routing-switching/02-switching-vlan.md)
 - [Wireless](week2-routing-switching/03-wireless.md)
+- [Network Monitoring](week3-security/01-monitoring.md)
+- [Servizi di Rete](week3-security/02-network-services.md)
+- [Attacchi e Difese](week3-security/03-attacks-defenses.md)
