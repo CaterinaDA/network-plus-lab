@@ -15,7 +15,8 @@ Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su
 | week1-fundamentals | OSI, porte/protocolli, subnetting, Wireshark | Completata |
 | week2-routing-switching | Routing, VLAN, spanning tree, wireless | Completata |
 | week3-security | Monitoraggio, attacchi, difese, AD security | Completata |
-| week4-troubleshooting | Metodologia, comandi CLI, simulazione esame | In attesa |
+| week4-troubleshooting | Metodologia, comandi CLI, simulazione esame | Completata |
+| week5-additional-topics | Appliances, cloud, topologie, operations, security | Completata |
 
 ## Certificazioni
 - CompTIA Security+ - conseguita
@@ -31,3 +32,7 @@ Studio pratico per la certificazione CompTIA Network+ con laboratori hands-on su
 - [Network Monitoring](week3-security/01-monitoring.md)
 - [Servizi di Rete](week3-security/02-network-services.md)
 - [Attacchi e Difese](week3-security/03-attacks-defenses.md)
+- [Troubleshooting](week4-troubleshooting/01-troubleshooting.md)
+- [Networking Appliances e Cloud](week5-additional-topics/01-networking-appliances-cloud.md)
+- [Network Concepts](week5-additional-topics/02-network-concepts.md)
+- [Operations e Security](week5-additional-topics/03-network-operations-security.md)
